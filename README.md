@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Para mais informações me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com/@RYDENFINISH/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
